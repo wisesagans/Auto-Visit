@@ -7,8 +7,12 @@ $magenta = "\e[35m";
 $hijau = "\e[92m";
 $merah = "\e[91m";
 
-
-echo "$magenta            =====AUTO VIEWERS BLOG 2020 BY Purworejo6etar=====    \n";
+echo "$magenta /*############################################*/
+/*#        Hidden Mode Auto-Visit porjo      # */
+/*#        Author :  Wasesa                  #*/
+/*#          Team :  Purworejo 6etar         #*/
+/*#       Contact : wisesa914@gmail.com      #*/
+/*############################################ */     \n";
 echo "$cyan \n \n";
 echo ' [+] Link Blogger : ';
 $url = trim(fgets(STDIN));
