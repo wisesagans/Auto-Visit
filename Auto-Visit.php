@@ -199,12 +199,7 @@ class autovisitor extends Random_UA {
 	private function acakReferer() {
 		$list = array();
 		/* Asal traffic yang di submit */ 
-		$list[] = "http://facebook.com";
-		$list[] = "http://google.com.sg";
-		$list[] = "http://twitter.com";
- 		$list[] = "http://facebook.com";
         $list[] = "http://google.com.sg";
-	    $list[] = "http://twitter.com";
 	    $list[] = "http://google.co.id";
 	    $list[] = "http://google.com.my";
 	    $list[] = "http://google.jp";
