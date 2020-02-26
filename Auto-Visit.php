@@ -8,10 +8,10 @@ $hijau = "\e[92m";
 $merah = "\e[91m";
 
 echo "$magenta /*############################################*/
-/*#        Hidden Mode Auto-Visit porjo      # */
-/*#        Author :  Wasesa                  #*/
+/*#    Hidden Mode Auto-Visit porjo          # */
+/*#        Author :  Wisesa Dwi Putra        #*/
 /*#          Team :  Purworejo 6etar         #*/
-/*#       Contact : wisesa914@gmail.com      #*/
+/*#       Contact :  wisesa914@gmail.com     #*/
 /*############################################ */     \n";
 echo "$cyan \n \n";
 echo ' [+] Link Blogger : ';
@@ -221,9 +221,6 @@ class autovisitor extends Random_UA {
 	    $list[] = "http://google.ge";
 	    $list[] = "http://google.gr";
 	    $list[] = "http://google.com.tw";
-	    $list[] = "https://search.yahoo.com";
-        $list[] = "http://www.beinyu.com";
-
 
 		$acak = array_rand($list,1);
 		return $list[$acak];
