@@ -7,7 +7,8 @@ $magenta = "\e[35m";
 $hijau = "\e[92m";
 $merah = "\e[91m";
 
-echo "$magenta /*############################################*/
+echo "$magenta
+ /*############################################*/
 /*#    Hidden Mode Auto-Visit porjo          # */
 /*#        Author :  Wisesa Dwi Putra        #*/
 /*#          Team :  Purworejo 6etar         #*/
